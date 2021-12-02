@@ -2,8 +2,8 @@
 ##  are from adt3-user 11 RTT1.200909.003.A2 6832896 release-keys.
 
 ## TEE/Keymaster
-vendor/bin/hw/android.hardware.keymaster@4.1-service.amlogic
-vendor/etc/init/android.hardware.keymaster@4.1-service.amlogic.rc
+#vendor/bin/hw/android.hardware.keymaster@4.1-service.amlogic
+#vendor/etc/init/android.hardware.keymaster@4.1-service.amlogic.rc
 vendor/lib/libtee_load_video_fw.so
 vendor/lib/libteec.so
 vendor/lib/libsecmem.so
